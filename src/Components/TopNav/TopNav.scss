@@ -1,0 +1,15 @@
+@use '../../../abstract/variables' as *;
+
+.TopNav {
+    background-color: $lightGreen;
+    @include centered(column, center);
+    color: $white;
+    height: 10vh;
+    width: 100vw;
+    left:0;
+    top:0;
+}
+
+.sungate-logo {
+    margin: 0;
+}

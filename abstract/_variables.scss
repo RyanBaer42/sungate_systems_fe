@@ -1,0 +1,16 @@
+$darkGreen: #344E41;
+$mediumGreen: #3A5A40;
+$lightGreen: #588157;
+$white: #FBFAF5;
+$tanGreen: #A3B18A;
+$grey: #444444;
+$lightGrey: #ECECEC;
+$tan: #DAD7CD;
+
+
+@mixin centered($direction, $justifyContent) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justifyContent;
+  align-items: center;
+}

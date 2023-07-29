@@ -1,0 +1,12 @@
+.listcomponent {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #ECECEC;
+}
+
+.list-container {
+  height: 100vh;
+  width: 12vw;
+  border-right: 1px solid #ECECEC;
+  margin: 0;
+}/*# sourceMappingURL=SideNav.css.map */

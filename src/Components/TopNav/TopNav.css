@@ -1,0 +1,16 @@
+.TopNav {
+  background-color: #588157;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #FBFAF5;
+  height: 10vh;
+  width: 100vw;
+  left: 0;
+  top: 0;
+}
+
+.sungate-logo {
+  margin: 0;
+}/*# sourceMappingURL=TopNav.css.map */
